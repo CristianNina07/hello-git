@@ -12,4 +12,4 @@ print("¡Hola git! with a change")
 
 #git checkout "hash" ->para volver a un estado anterior y se eliminara todo lo que hiciste hasta ese commit
 
-#commit
+#git tag 
